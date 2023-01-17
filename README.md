@@ -3,6 +3,9 @@
 ## Deliverable 1: Horizontal Bar Chart
 ### Code is written to create the arrays when a sample is selected from the dropdown menu
 ### Code is written to create the trace object in the buildCharts() function
+- The y values are the otu_ids in descending order
+- The x values are the sample_values in descending order
+- The hover text is the otu_labels in descending order.
 ### Code is written to create the layout array in the buildCharts() function that creates a title for the chart
 ### Code is written to create the trace object in the buildCharts() function
 - The top 10 sample_values are sorted in descending order
