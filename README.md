@@ -1,4 +1,5 @@
 # Plotly
+The finished interactive website can be found at https://pfrivas.github.io/Plotly/
 ![website](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Website.png)
 
 ## Deliverable 1: Horizontal Bar Chart
