@@ -1,7 +1,8 @@
 # Plotly
+![website](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Website.png)
 
 ## Deliverable 1: Horizontal Bar Chart
-Full code can be found at []()
+Full code can be found at [charts.js](https://github.com/pfrivas/Plotly/blob/main/Challenge/charts.js)
 ### Code is written to create the arrays when a sample is selected from the dropdown menu
 ```
 function buildCharts(sample) {}
@@ -29,8 +30,11 @@ function buildCharts(sample) {}
 - The otu_ids as the labels
 ```
 ```
+![bar_chart](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Horizontal%20Bar%20Chart.png)
+![working_bar_chart](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Working%20Bar%20Chart.png)
 
 ## Deliverable 2: Bubble Chart
+Full code can be found at [charts.js](https://github.com/pfrivas/Plotly/blob/main/Challenge/charts.js)
 ### The code for the trace object in the buildCharts(); function does the following:
 - Sets the otu_ids as the x-axis values
 ```
@@ -58,10 +62,10 @@ function buildCharts(sample) {}
 ```
 ```
 ### When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard. All three charts should also be working according to their requirements when a sample is selected from the dropdown menu
-![]()
-
+![bubble_chart](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Bubble%20Chart.png)
+![working_bubble_chart](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Working%20Bubble%20Chart.png)
 ## Deliverable 3: Gauge Chart
-Full code can be found at []()
+Full code can be found at [charts.js](https://github.com/pfrivas/Plotly/blob/main/Challenge/charts.js)
 ### The code to build the gauge chart does the following: 
 - Creates a title for the chart.
 ```
@@ -82,9 +86,10 @@ Full code can be found at []()
 ```
 ```
 ### When the webpage loads, the bar and bubble chart are working according to the requirements in Deliverable 1 and 2, respectively, and the gauge chart is working
-![]()
+![gauge_chart](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Gauge%20Chart.png)
+![working_gauge_chart](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Working%20Gauge%20Chart.png)
 ## Deliverable 4: Customization of the Dashboard
-Full customization code can be found at [style.css]()
+Full customization code can be found at [style.css](https://github.com/pfrivas/Plotly/blob/main/Challenge/style.css)
 ### 3 Customizations
 - Changed background color
 ```
@@ -98,6 +103,9 @@ Full customization code can be found at [style.css]()
 - Changed body text color
 ```
 ```
-![]()
+![customized_webpage](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Website_Customized.png)
 ### ID 940’s data as default and all three charts working when a sample is selected from the dropdown menu
-![]()
+- **940 Sample Data**
+![940]([https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Website_Customized.png](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/All%20Charts%20with%20940%20Data.png))
+- **Different Sample Selected**
+![960]([https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Website_Customized.png](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/All%20Charts%20with%20960%20Data.png))
