@@ -105,7 +105,10 @@ Full customization code can be found at [style.css](https://github.com/pfrivas/P
 ```
 ![customized_webpage](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Website_Customized.png)
 ### ID 940’s data as default and all three charts working when a sample is selected from the dropdown menu
-- **940 Sample Data**
-![940]([https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Website_Customized.png](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/All%20Charts%20with%20940%20Data.png))
-- **Different Sample Selected**
-![960]([https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Website_Customized.png](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/All%20Charts%20with%20960%20Data.png))
+**940 Sample Data**
+
+  ![940]([https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Website_Customized.png](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/All%20Charts%20with%20940%20Data.png))
+
+**Different Sample Selected**
+
+  ![960]([https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/Website_Customized.png](https://github.com/pfrivas/Plotly/blob/main/Challenge/Images/All%20Charts%20with%20960%20Data.png))
